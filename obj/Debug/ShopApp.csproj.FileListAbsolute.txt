@@ -1,0 +1,30 @@
+C:\Users\scank\Desktop\ShopApp\bin\Debug\ShopApp.exe.config
+C:\Users\scank\Desktop\ShopApp\bin\Debug\ShopApp.exe
+C:\Users\scank\Desktop\ShopApp\bin\Debug\ShopApp.pdb
+C:\Users\scank\Desktop\ShopApp\obj\Debug\ShopApp.csprojAssemblyReference.cache
+C:\Users\scank\Desktop\ShopApp\obj\Debug\ShopApp.Form1.resources
+C:\Users\scank\Desktop\ShopApp\obj\Debug\ShopApp.Properties.Resources.resources
+C:\Users\scank\Desktop\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+C:\Users\scank\Desktop\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\scank\Desktop\ShopApp\obj\Debug\ShopApp.exe
+C:\Users\scank\Desktop\ShopApp\obj\Debug\ShopApp.pdb
+C:\Users\scank\Desktop\Nesneye Dayalı P\ShopApp\bin\Debug\ShopApp.exe.config
+C:\Users\scank\Desktop\Nesneye Dayalı P\ShopApp\bin\Debug\ShopApp.exe
+C:\Users\scank\Desktop\Nesneye Dayalı P\ShopApp\bin\Debug\ShopApp.pdb
+C:\Users\scank\Desktop\Nesneye Dayalı P\ShopApp\obj\Debug\ShopApp.csprojAssemblyReference.cache
+C:\Users\scank\Desktop\Nesneye Dayalı P\ShopApp\obj\Debug\ShopApp.Form1.resources
+C:\Users\scank\Desktop\Nesneye Dayalı P\ShopApp\obj\Debug\ShopApp.Properties.Resources.resources
+C:\Users\scank\Desktop\Nesneye Dayalı P\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+C:\Users\scank\Desktop\Nesneye Dayalı P\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\scank\Desktop\Nesneye Dayalı P\ShopApp\obj\Debug\ShopApp.exe
+C:\Users\scank\Desktop\Nesneye Dayalı P\ShopApp\obj\Debug\ShopApp.pdb
+C:\Users\scank\Desktop\3\ShopApp\bin\Debug\ShopApp.exe.config
+C:\Users\scank\Desktop\3\ShopApp\bin\Debug\ShopApp.exe
+C:\Users\scank\Desktop\3\ShopApp\bin\Debug\ShopApp.pdb
+C:\Users\scank\Desktop\3\ShopApp\obj\Debug\ShopApp.csprojAssemblyReference.cache
+C:\Users\scank\Desktop\3\ShopApp\obj\Debug\ShopApp.Form1.resources
+C:\Users\scank\Desktop\3\ShopApp\obj\Debug\ShopApp.Properties.Resources.resources
+C:\Users\scank\Desktop\3\ShopApp\obj\Debug\ShopApp.csproj.GenerateResource.cache
+C:\Users\scank\Desktop\3\ShopApp\obj\Debug\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\scank\Desktop\3\ShopApp\obj\Debug\ShopApp.exe
+C:\Users\scank\Desktop\3\ShopApp\obj\Debug\ShopApp.pdb
